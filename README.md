@@ -42,4 +42,4 @@ Bu proje **özgür bir örnek proje** olarak paylaşılmıştır. Ticari kullan�
 
 ## GitHub Linki
 
-[Book Management App Repository](https://github.com/ArhanTopal/BookManagementApp)
+[Book Management App Repository](https://github.com/mrarhant/BookManagamentSystem.git)
